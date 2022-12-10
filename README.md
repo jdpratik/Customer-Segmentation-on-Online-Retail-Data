@@ -2,6 +2,8 @@
 
 Customer Segmentation using Clustering & Dimensionality Reduction on Online Retail Dataset
 
+Project by: Pratik Dahibhate and Rivana Christie
+
 Link to dataset: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
 As part of this project, we are using dimensionality reduction and clustering to segment the users from an online retail dataset. We use principal component analysis (PCA) for dimensionality reduction. Then we apply the following clustering techniques on the reduced dataset:
