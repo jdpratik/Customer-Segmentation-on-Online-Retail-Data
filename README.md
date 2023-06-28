@@ -1,4 +1,5 @@
-# DS 5230 - Unsupervised Machine Learning - Final Project
+#Customer Segmentation using Clustering & Dimensionality Reduction on Online Retail Dataset
+
 
 Customer Segmentation using Clustering & Dimensionality Reduction on Online Retail Dataset
 
